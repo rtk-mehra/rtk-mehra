@@ -1,42 +1,53 @@
-👋 Hi, I'm Ritik!
-🔧 Backend Developer | Node.js Enthusiast | Database Nerd | Open-Source Contributor
+👋 Hey, I'm Ritik!
+💻 Backend Wizard | Node.js Pro | Database Architect | Open Source Contributor
 
-I am a passionate backend developer with expertise in building scalable, high-performance applications using Node.js, PostgreSQL, and SQL. I thrive in crafting efficient APIs, designing data models, and ensuring smooth database operations. I enjoy tackling complex problems and architecting solutions that are both functional and elegant.
+I’m a passionate backend engineer, specializing in building blazing fast, scalable applications with Node.js and PostgreSQL at the core. Crafting elegant APIs, designing robust data models, and optimizing complex queries—that’s my jam. I thrive in high-impact environments where performance and scalability matter.
 
-💻 Tech Stack:
-Backend: Node.js, Express.js, Koa.js, RESTful APIs, GraphQL
-Databases: PostgreSQL, MySQL, MongoDB, Sequelize ORM, Knex.js
-Cloud & DevOps: Docker, Kubernetes, DigitalOcean, AWS, CI/CD (GitHub Actions, Jenkins)
-Frontend: React.js, Next.js, HTML5, CSS3, JavaScript (ES6+), TailwindCSS
-Other Tools: Git, Redis, RabbitMQ, WebSockets, Elasticsearch, NGINX
-🌟 What I'm Good At:
-Building RESTful APIs and GraphQL APIs that scale
-Creating robust and maintainable SQL queries and database schemas
-Implementing authentication and authorization strategies (OAuth, JWT, etc.)
-Efficient file handling and content delivery with cloud services (AWS S3, DigitalOcean Spaces)
-Developing microservices and handling inter-service communication
-Deploying applications on Kubernetes, Docker, and Cloud Platforms (DigitalOcean, AWS)
-🧠 Open to Learning:
-While I love working with Node.js and databases, I'm always excited to dive into new technologies. Whether it's a new framework, a cutting-edge cloud service, or even learning different programming languages, I'm open to expanding my skill set.
+🚀 Tech Stack Highlights:
 
-Some of the tech I’m currently exploring:
+Backend:
 
-Go for building high-performance services
-Rust for systems programming
-Machine Learning integrations with Python and TensorFlow
-Blockchain technology and smart contracts
-🏗️ Frontend Experience:
-Though backend development is my core expertise, I also enjoy working on the frontend side. I’ve built user interfaces with:
+⚙️ Node.js, Express.js, Koa.js
+📡 RESTful APIs, GraphQL, Microservices
+🔑 Auth strategies (JWT, OAuth, SSO)
+Databases:
 
-React.js and Next.js for SPAs and server-side rendering
-CSS frameworks like TailwindCSS for rapid UI development
-Implementing responsive design and interactive UI elements
-🛠️ Some Notable Projects:
-[Project Name]: A highly-scalable content management system built using Node.js, PostgreSQL, and Redis. Deployed on Kubernetes.
-[Project Name]: An e-commerce application with real-time updates, user authentication, and payments integration (Node.js, Stripe, PostgreSQL, React.js).
-[Project Name]: A social platform where users can create and share fashion outfits. (Node.js, Next.js, Sequelize).
-💬 Get In Touch:
-LinkedIn: [https://www.linkedin.com/in/ritik-mehra-ab0520191]
-Email: [mehra.ritik18@gmail.com]
-Feel free to reach out for collaboration, discussing new ideas, or just a friendly chat about technology!
+🐘 PostgreSQL, MySQL, MongoDB
+🗃️ Sequelize ORM, Knex.js, Raw SQL
+🔥 Efficient query optimization, advanced indexing
+DevOps & Cloud:
 
+🐳 Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)
+☁️ AWS, DigitalOcean, Heroku
+📦 Redis, RabbitMQ, Elasticsearch
+Frontend (I dabble here too):
+
+⚛️ React.js, Next.js
+🎨 TailwindCSS, JavaScript (ES6+), CSS3
+📱 Responsive Design & SSR
+🧩 Core Skills:
+
+Scalable API Architect: Designing APIs that handle thousands of requests like a breeze.
+SQL Guru: Crafting complex queries and optimizing database performance.
+Cloud Deployment: Deploying apps on Kubernetes and Docker with CI/CD pipelines.
+Authentication/Authorization: Implementing secure OAuth, JWT, and custom auth flows.
+Real-Time Systems: Event-driven architecture, using WebSockets for live updates.
+File Handling: Efficient handling and serving files through AWS S3 and DO Spaces.
+🔥 Always Learning:
+
+Right now, I’m diving deep into:
+
+🚀 Go for high-performance backends
+⚙️ Rust for systems-level programming
+🧠 Machine Learning with Python and TensorFlow
+🔗 Blockchain tech & Smart Contracts
+🌟 Notable Projects:
+
+🛠 [CMS App]: A scalable CMS with Redis caching and PostgreSQL; deployed on Kubernetes.
+🛒 [E-Commerce App]: Real-time, payment-enabled e-commerce platform (Node.js + PostgreSQL + Stripe).
+🧥 [Fashion Social Platform]: A social network where users create/share fashion outfits (Node.js + Next.js).
+👨‍💻 Let's Connect:
+
+LinkedIn: linkedin.com/in/ritik-mehra-ab0520191
+Email: mehra.ritik18@gmail.com
+Whether you’re looking for collaboration, need a technical chat, or want to discuss innovative ideas—let’s talk! 👾
