@@ -1,53 +1,69 @@
-👋 Hey, I'm Ritik!
-💻 Backend Wizard | Node.js Pro | Database Architect | Open Source Contributor
+# 👋 Hi, I'm **Ritik**  
+💻 **Backend Wizard | Node.js Expert | Database Architect | Open Source Contributor**
 
-I’m a passionate backend engineer, specializing in building blazing fast, scalable applications with Node.js and PostgreSQL at the core. Crafting elegant APIs, designing robust data models, and optimizing complex queries—that’s my jam. I thrive in high-impact environments where performance and scalability matter.
+---
 
-🚀 Tech Stack Highlights:
+I’m a passionate backend engineer focused on building **scalable**, **high-performance** applications. My expertise lies in crafting **robust APIs**, designing **efficient data models**, and optimizing database operations. I love tackling complex problems and delivering solutions that are as **functional** as they are **elegant**.
 
-Backend:
+---
 
-⚙️ Node.js, Express.js, Koa.js
-📡 RESTful APIs, GraphQL, Microservices
-🔑 Auth strategies (JWT, OAuth, SSO)
-Databases:
+## 🚀 **Tech Stack**
 
-🐘 PostgreSQL, MySQL, MongoDB
-🗃️ Sequelize ORM, Knex.js, Raw SQL
-🔥 Efficient query optimization, advanced indexing
-DevOps & Cloud:
+### **Backend**  
+- **Node.js** | **Express.js** | **Koa.js**  
+- **RESTful APIs** | **GraphQL**  
+- **Authentication/Authorization**: JWT, OAuth, SSO  
 
-🐳 Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)
-☁️ AWS, DigitalOcean, Heroku
-📦 Redis, RabbitMQ, Elasticsearch
-Frontend (I dabble here too):
+### **Databases**  
+- **PostgreSQL** | **MySQL** | **MongoDB**  
+- **Sequelize ORM** | **Knex.js** | Raw SQL  
+- Complex SQL Queries, Indexing, Performance Tuning  
 
-⚛️ React.js, Next.js
-🎨 TailwindCSS, JavaScript (ES6+), CSS3
-📱 Responsive Design & SSR
-🧩 Core Skills:
+### **DevOps & Cloud**  
+- **Docker** | **Kubernetes**  
+- **AWS** | **DigitalOcean** | **Heroku**  
+- **CI/CD** (GitHub Actions, Jenkins)  
+- **Redis** | **RabbitMQ** | **Elasticsearch**  
 
-Scalable API Architect: Designing APIs that handle thousands of requests like a breeze.
-SQL Guru: Crafting complex queries and optimizing database performance.
-Cloud Deployment: Deploying apps on Kubernetes and Docker with CI/CD pipelines.
-Authentication/Authorization: Implementing secure OAuth, JWT, and custom auth flows.
-Real-Time Systems: Event-driven architecture, using WebSockets for live updates.
-File Handling: Efficient handling and serving files through AWS S3 and DO Spaces.
-🔥 Always Learning:
+### **Frontend** *(I dabble here too)*  
+- **React.js** | **Next.js**  
+- **TailwindCSS**  
+- Responsive UI Design, SSR  
 
-Right now, I’m diving deep into:
+---
 
-🚀 Go for high-performance backends
-⚙️ Rust for systems-level programming
-🧠 Machine Learning with Python and TensorFlow
-🔗 Blockchain tech & Smart Contracts
-🌟 Notable Projects:
+## 🧩 **What I Do Best**
+- **API Architect**: Crafting **scalable**, high-performance APIs.
+- **Database Ninja**: Creating **complex queries** and optimizing databases for performance.
+- **Cloud Deployment**: Seamlessly deploying applications on **Docker** and **Kubernetes**.
+- **Authentication & Authorization**: Implementing **secure** auth flows (JWT, OAuth).
+- **Real-Time Communication**: Handling live updates with **WebSockets**.
+- **File Management**: Managing efficient file uploads and serving through **AWS S3** and **DigitalOcean Spaces**.
 
-🛠 [CMS App]: A scalable CMS with Redis caching and PostgreSQL; deployed on Kubernetes.
-🛒 [E-Commerce App]: Real-time, payment-enabled e-commerce platform (Node.js + PostgreSQL + Stripe).
-🧥 [Fashion Social Platform]: A social network where users create/share fashion outfits (Node.js + Next.js).
-👨‍💻 Let's Connect:
+---
 
-LinkedIn: linkedin.com/in/ritik-mehra-ab0520191
-Email: mehra.ritik18@gmail.com
-Whether you’re looking for collaboration, need a technical chat, or want to discuss innovative ideas—let’s talk! 👾
+## 🔥 **Always Learning**
+
+I'm always open to new technologies and constantly expanding my skill set.  
+Some of the things I'm diving into right now:  
+- **Go** for high-performance services  
+- **Rust** for system-level programming  
+- **Machine Learning** with **Python** and **TensorFlow**  
+- **Blockchain** and smart contracts  
+
+---
+
+## 🛠️ **Notable Projects**
+
+- **[CMS App]**: A **scalable content management system** using Node.js, Redis, and PostgreSQL. Deployed with Kubernetes.
+- **[E-Commerce Platform]**: Built a **real-time**, payment-integrated e-commerce solution using Node.js, Stripe, and PostgreSQL.
+- **[Fashion Social Platform]**: A social network where users can create and share fashion outfits (Node.js, Next.js, Sequelize).
+
+---
+
+## 🧠 **Let's Connect!**
+
+- **[LinkedIn](https://www.linkedin.com/in/ritik-mehra-ab0520191)**  
+- **Email**: mehra.ritik18@gmail.com  
+
+Feel free to reach out for collaboration, brainstorming, or a chat about cool tech! 👾
